@@ -4,4 +4,4 @@
 
 <!--<p align="center"><a href="https://github.com/3JoB/gmake2"><img width="800"  src="https://github.com/3JoB/gmake2/raw/master/wiki/gmake2_bdsl.png"></img></a></p>-->
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5DG6CJ)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://patreon.com/Malonan)
